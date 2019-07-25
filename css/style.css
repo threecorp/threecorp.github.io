@@ -1,9 +1,9 @@
 /*
 -------------------------------------------------------------------------
-* Template Name    : Pofto - Responsive Minimal Template                * 
+* Template Name    : Pofto - Responsive Minimal Template                *
 * Author           : ThemesBoss                                         *
 * Version          : 1.0.0                                              *
-* Created          : February 2019                                      * 
+* Created          : February 2019                                      *
 * File Description : Main CSS file of the template                      *
 *------------------------------------------------------------------------
 */
@@ -20,7 +20,7 @@
         -CLIENT LOGO
     5. ABOUT PAGE
         -ABOUT MINIMAL
-            -CTA 
+            -CTA
             -FUNFACT
             -SUBCRIBE
         -ABOUT DEFAULT
@@ -1556,7 +1556,7 @@ button:focus {
 }
 
 .bg-overlay-white {
-    background-color: rgba(249, 249, 249, 0.85);
+    background-color: rgba(249, 249, 249, 0.65);
     position: absolute;
     top: 0;
     right: 0;

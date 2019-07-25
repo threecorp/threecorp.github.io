@@ -1,9 +1,9 @@
 /*
 -------------------------------------------------------------------------
-* Template Name    : Pofto - Responsive Minimal Template                * 
+* Template Name    : Pofto - Responsive Minimal Template                *
 * Author           : ThemesBoss                                         *
 * Version          : 1.0.0                                              *
-* Created          : February 2019                                      * 
+* Created          : February 2019                                      *
 * File Description : Main JS file of the template                       *
 *------------------------------------------------------------------------
 */
@@ -124,6 +124,8 @@
                 itemsDesktopSmall: [979, 3]
             });
         },
+
+        Pofto.prototype.initFunFacts = function() {},
 
         Pofto.prototype.initBTT = function() {
             $(window).on('scroll', function() {
