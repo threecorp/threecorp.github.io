@@ -27,3 +27,8 @@
   transform: translateY(-50%);
   text-align: center;
 }
+
+.home-logo {
+  color: #202528;
+  font-weight: bold;
+}
